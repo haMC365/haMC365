@@ -34,13 +34,3 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=haMC365&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide=stars,issues&include_all_commits=true" alt="GitHub Stats"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haMC365&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
 </div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-hamc052045%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamc052045@gmail.com)
-
-</div>
